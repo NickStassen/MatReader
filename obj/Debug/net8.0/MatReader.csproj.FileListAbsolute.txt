@@ -1,0 +1,17 @@
+/home/nick/MatReader/bin/Debug/net8.0/MatReader
+/home/nick/MatReader/bin/Debug/net8.0/MatReader.deps.json
+/home/nick/MatReader/bin/Debug/net8.0/MatReader.runtimeconfig.json
+/home/nick/MatReader/bin/Debug/net8.0/MatReader.dll
+/home/nick/MatReader/bin/Debug/net8.0/MatReader.pdb
+/home/nick/MatReader/bin/Debug/net8.0/MatFileHandler.dll
+/home/nick/MatReader/obj/Debug/net8.0/MatReader.csproj.AssemblyReference.cache
+/home/nick/MatReader/obj/Debug/net8.0/MatReader.GeneratedMSBuildEditorConfig.editorconfig
+/home/nick/MatReader/obj/Debug/net8.0/MatReader.AssemblyInfoInputs.cache
+/home/nick/MatReader/obj/Debug/net8.0/MatReader.AssemblyInfo.cs
+/home/nick/MatReader/obj/Debug/net8.0/MatReader.csproj.CoreCompileInputs.cache
+/home/nick/MatReader/obj/Debug/net8.0/MatReader.csproj.CopyComplete
+/home/nick/MatReader/obj/Debug/net8.0/MatReader.dll
+/home/nick/MatReader/obj/Debug/net8.0/refint/MatReader.dll
+/home/nick/MatReader/obj/Debug/net8.0/MatReader.pdb
+/home/nick/MatReader/obj/Debug/net8.0/MatReader.genruntimeconfig.cache
+/home/nick/MatReader/obj/Debug/net8.0/ref/MatReader.dll

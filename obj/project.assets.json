@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "MatFileHandler/1.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MatFileHandler.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/MatFileHandler.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MatFileHandler/1.3.0": {
+      "sha512": "SDqzrPRWmpKWWGc1qi7VJgNw22YNECe1iCpsis0WUyKNqcH3XlRhVzZdNw+A/QMzDW9oWoVdZs5pbUjUeK7IOA==",
+      "type": "package",
+      "path": "matfilehandler/1.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net461/MatFileHandler.dll",
+        "lib/net461/MatFileHandler.xml",
+        "lib/net472/MatFileHandler.dll",
+        "lib/net472/MatFileHandler.xml",
+        "lib/netstandard2.0/MatFileHandler.dll",
+        "lib/netstandard2.0/MatFileHandler.xml",
+        "matfilehandler.1.3.0.nupkg.sha512",
+        "matfilehandler.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "MatFileHandler >= 1.3.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/nick/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/nick/MatReader/MatReader.csproj",
+      "projectName": "MatReader",
+      "projectPath": "/home/nick/MatReader/MatReader.csproj",
+      "packagesPath": "/home/nick/.nuget/packages/",
+      "outputPath": "/home/nick/MatReader/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/nick/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "MatFileHandler": {
+            "target": "Package",
+            "version": "[1.3.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

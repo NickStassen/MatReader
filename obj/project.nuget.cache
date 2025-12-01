@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rv3jLRHxT059I+NOH7V26fJuhG/zkvjeUqp8MPrECa9FxOoO1Aro3SolfqPk+wYKbzABjXivtnMCXmUMy1t9uA==",
+  "success": true,
+  "projectFilePath": "/home/nick/MatReader/MatReader.csproj",
+  "expectedPackageFiles": [
+    "/home/nick/.nuget/packages/matfilehandler/1.3.0/matfilehandler.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
